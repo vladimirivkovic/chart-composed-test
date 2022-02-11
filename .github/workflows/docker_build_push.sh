@@ -25,6 +25,8 @@ if [ -z "${DOCKERHUB_TOKEN}" ]; then
 else
   # Login and push
   docker logout
-  docker login --username "${DOCKERHUB_USER}" --password "${DOCKERHUB_TOKEN}"
+  # docker login --username "${DOCKERHUB_USER}" --password "${DOCKERHUB_TOKEN}"
+  echo "${DOCKERHUB_USER}"
+  echo "${DOCKERHUB_TOKEN}" | docker login --username "${DOCKERHUB_USER}" --password-stdin
   docker push "${REPOSITORY_NAME}:${TAG_NAME}"
 fi
