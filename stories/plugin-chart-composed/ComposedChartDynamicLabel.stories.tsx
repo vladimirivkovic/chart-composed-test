@@ -18,7 +18,7 @@
  */
 import React from 'react';
 import { ChartProps, supersetTheme, ThemeProvider } from '@superset-ui/core';
-import { BarChartSubType, ChartType } from '@superset-viz-plugins/plugin-chart-composed/src/components/types';
+import { BarChartSubType, ChartType } from '@chart-composed-test/plugin-chart-composed/src/components/types';
 import ComposedChart from '../../plugins/plugin-chart-composed/src/components/ComposedChart';
 import transformProps from '../../plugins/plugin-chart-composed/src/plugin/transformProps';
 import { barsHorizontalLegendTop } from '../../plugins/plugin-chart-composed/test/__mocks__/composedProps';

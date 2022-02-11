@@ -3,23 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.36.6](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.36.5...@superset-viz-plugins/plugin-chart-composed@0.36.6) (2021-12-30)
+## [0.36.6](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.36.5...@chart-composed-test/plugin-chart-composed@0.36.6) (2021-12-30)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
-
-
-
-
-
-## [0.36.5](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.36.4...@superset-viz-plugins/plugin-chart-composed@0.36.5) (2021-12-26)
-
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
 
 
-## [0.36.4](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.36.3...@superset-viz-plugins/plugin-chart-composed@0.36.4) (2021-12-23)
+## [0.36.5](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.36.4...@chart-composed-test/plugin-chart-composed@0.36.5) (2021-12-26)
+
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
+
+
+
+
+
+## [0.36.4](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.36.3...@chart-composed-test/plugin-chart-composed@0.36.4) (2021-12-23)
 
 
 ### Bug Fixes
@@ -30,7 +30,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.36.3](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.36.2...@superset-viz-plugins/plugin-chart-composed@0.36.3) (2021-12-20)
+## [0.36.3](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.36.2...@chart-composed-test/plugin-chart-composed@0.36.3) (2021-12-20)
 
 
 ### Bug Fixes
@@ -41,23 +41,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.36.2](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.36.1...@superset-viz-plugins/plugin-chart-composed@0.36.2) (2021-12-19)
+## [0.36.2](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.36.1...@chart-composed-test/plugin-chart-composed@0.36.2) (2021-12-19)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
-
-
-
-
-
-## [0.36.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.36.0...@superset-viz-plugins/plugin-chart-composed@0.36.1) (2021-12-19)
-
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
 
 
-# [0.36.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.35.0...@superset-viz-plugins/plugin-chart-composed@0.36.0) (2021-12-05)
+## [0.36.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.36.0...@chart-composed-test/plugin-chart-composed@0.36.1) (2021-12-19)
+
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
+
+
+
+
+
+# [0.36.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.35.0...@chart-composed-test/plugin-chart-composed@0.36.0) (2021-12-05)
 
 
 ### Features
@@ -68,7 +68,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.35.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.34.1...@superset-viz-plugins/plugin-chart-composed@0.35.0) (2021-11-28)
+# [0.35.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.34.1...@chart-composed-test/plugin-chart-composed@0.35.0) (2021-11-28)
 
 
 ### Features
@@ -79,15 +79,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.34.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.34.0...@superset-viz-plugins/plugin-chart-composed@0.34.1) (2021-10-25)
+## [0.34.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.34.0...@chart-composed-test/plugin-chart-composed@0.34.1) (2021-10-25)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
-
-
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
-# [0.34.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.33.1...@superset-viz-plugins/plugin-chart-composed@0.34.0) (2021-10-21)
+
+
+# [0.34.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.33.1...@chart-composed-test/plugin-chart-composed@0.34.0) (2021-10-21)
 
 
 ### Features
@@ -98,7 +98,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.33.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.33.0...@superset-viz-plugins/plugin-chart-composed@0.33.1) (2021-10-17)
+## [0.33.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.33.0...@chart-composed-test/plugin-chart-composed@0.33.1) (2021-10-17)
 
 
 ### Bug Fixes
@@ -110,7 +110,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.33.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.32.0...@superset-viz-plugins/plugin-chart-composed@0.33.0) (2021-10-17)
+# [0.33.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.32.0...@chart-composed-test/plugin-chart-composed@0.33.0) (2021-10-17)
 
 
 ### Features
@@ -121,7 +121,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.32.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.31.0...@superset-viz-plugins/plugin-chart-composed@0.32.0) (2021-10-17)
+# [0.32.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.31.0...@chart-composed-test/plugin-chart-composed@0.32.0) (2021-10-17)
 
 
 ### Bug Fixes
@@ -137,7 +137,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.31.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.30.5...@superset-viz-plugins/plugin-chart-composed@0.31.0) (2021-10-14)
+# [0.31.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.30.5...@chart-composed-test/plugin-chart-composed@0.31.0) (2021-10-14)
 
 
 ### Features
@@ -148,15 +148,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.30.5](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.30.4...@superset-viz-plugins/plugin-chart-composed@0.30.5) (2021-10-12)
+## [0.30.5](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.30.4...@chart-composed-test/plugin-chart-composed@0.30.5) (2021-10-12)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
-
-
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
-## [0.30.4](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.30.2...@superset-viz-plugins/plugin-chart-composed@0.30.4) (2021-10-10)
+
+
+## [0.30.4](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.30.2...@chart-composed-test/plugin-chart-composed@0.30.4) (2021-10-10)
 
 
 ### Bug Fixes
@@ -167,7 +167,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.30.2](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.30.0...@superset-viz-plugins/plugin-chart-composed@0.30.2) (2021-10-10)
+## [0.30.2](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.30.0...@chart-composed-test/plugin-chart-composed@0.30.2) (2021-10-10)
 
 
 ### Bug Fixes
@@ -178,7 +178,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.30.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.26.0...@superset-viz-plugins/plugin-chart-composed@0.30.0) (2021-10-10)
+# [0.30.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.26.0...@chart-composed-test/plugin-chart-composed@0.30.0) (2021-10-10)
 
 
 ### Features
@@ -194,7 +194,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.29.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.28.1...@superset-viz-plugins/plugin-chart-composed@0.29.0) (2021-10-10)
+# [0.29.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.28.1...@chart-composed-test/plugin-chart-composed@0.29.0) (2021-10-10)
 
 
 ### Features
@@ -205,7 +205,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.28.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.28.0...@superset-viz-plugins/plugin-chart-composed@0.28.1) (2021-10-10)
+## [0.28.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.28.0...@chart-composed-test/plugin-chart-composed@0.28.1) (2021-10-10)
 
 
 ### Bug Fixes
@@ -216,7 +216,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.28.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.27.1...@superset-viz-plugins/plugin-chart-composed@0.28.0) (2021-10-10)
+# [0.28.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.27.1...@chart-composed-test/plugin-chart-composed@0.28.0) (2021-10-10)
 
 
 ### Features
@@ -227,7 +227,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.27.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.27.0...@superset-viz-plugins/plugin-chart-composed@0.27.1) (2021-10-10)
+## [0.27.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.27.0...@chart-composed-test/plugin-chart-composed@0.27.1) (2021-10-10)
 
 
 ### Bug Fixes
@@ -238,7 +238,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.27.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.26.0...@superset-viz-plugins/plugin-chart-composed@0.27.0) (2021-10-10)
+# [0.27.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.26.0...@chart-composed-test/plugin-chart-composed@0.27.0) (2021-10-10)
 
 
 ### Features
@@ -249,7 +249,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.26.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.25.0...@superset-viz-plugins/plugin-chart-composed@0.26.0) (2021-10-06)
+# [0.26.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.25.0...@chart-composed-test/plugin-chart-composed@0.26.0) (2021-10-06)
 
 
 ### Features
@@ -260,7 +260,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.25.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.24.1...@superset-viz-plugins/plugin-chart-composed@0.25.0) (2021-10-04)
+# [0.25.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.24.1...@chart-composed-test/plugin-chart-composed@0.25.0) (2021-10-04)
 
 
 ### Features
@@ -271,7 +271,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.24.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.24.0...@superset-viz-plugins/plugin-chart-composed@0.24.1) (2021-08-23)
+## [0.24.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.24.0...@chart-composed-test/plugin-chart-composed@0.24.1) (2021-08-23)
 
 
 ### Bug Fixes
@@ -293,23 +293,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.23.3](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.23.2...@superset-viz-plugins/plugin-chart-composed@0.23.3) (2021-07-19)
+## [0.23.3](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.23.2...@chart-composed-test/plugin-chart-composed@0.23.3) (2021-07-19)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
-
-
-
-
-
-## [0.23.2](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.23.1...@superset-viz-plugins/plugin-chart-composed@0.23.2) (2021-07-13)
-
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
 
 
-## [0.23.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.23.0...@superset-viz-plugins/plugin-chart-composed@0.23.1) (2021-06-17)
+## [0.23.2](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.23.1...@chart-composed-test/plugin-chart-composed@0.23.2) (2021-07-13)
+
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
+
+
+
+
+
+## [0.23.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.23.0...@chart-composed-test/plugin-chart-composed@0.23.1) (2021-06-17)
 
 
 ### Bug Fixes
@@ -320,7 +320,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.23.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.22.0...@superset-viz-plugins/plugin-chart-composed@0.23.0) (2021-06-06)
+# [0.23.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.22.0...@chart-composed-test/plugin-chart-composed@0.23.0) (2021-06-06)
 
 
 ### Features
@@ -331,7 +331,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.22.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.16.0...@superset-viz-plugins/plugin-chart-composed@0.22.0) (2021-06-01)
+# [0.22.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.16.0...@chart-composed-test/plugin-chart-composed@0.22.0) (2021-06-01)
 
 
 ### Features
@@ -342,7 +342,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.21.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.20.0...@superset-viz-plugins/plugin-chart-composed@0.21.0) (2021-05-31)
+# [0.21.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.20.0...@chart-composed-test/plugin-chart-composed@0.21.0) (2021-05-31)
 
 
 ### Bug Fixes
@@ -361,7 +361,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.20.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.19.0...@superset-viz-plugins/plugin-chart-composed@0.20.0) (2021-05-31)
+# [0.20.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.19.0...@chart-composed-test/plugin-chart-composed@0.20.0) (2021-05-31)
 
 
 ### Bug Fixes
@@ -379,7 +379,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.19.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.18.0...@superset-viz-plugins/plugin-chart-composed@0.19.0) (2021-05-31)
+# [0.19.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.18.0...@chart-composed-test/plugin-chart-composed@0.19.0) (2021-05-31)
 
 
 ### Bug Fixes
@@ -396,7 +396,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.18.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.17.0...@superset-viz-plugins/plugin-chart-composed@0.18.0) (2021-05-31)
+# [0.18.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.17.0...@chart-composed-test/plugin-chart-composed@0.18.0) (2021-05-31)
 
 
 ### Bug Fixes
@@ -412,7 +412,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.17.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.16.0...@superset-viz-plugins/plugin-chart-composed@0.17.0) (2021-05-31)
+# [0.17.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.16.0...@chart-composed-test/plugin-chart-composed@0.17.0) (2021-05-31)
 
 
 ### Bug Fixes
@@ -428,7 +428,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.16.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.15.0...@superset-viz-plugins/plugin-chart-composed@0.16.0) (2021-05-26)
+# [0.16.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.15.0...@chart-composed-test/plugin-chart-composed@0.16.0) (2021-05-26)
 
 
 ### Features
@@ -439,7 +439,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.15.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.14.12...@superset-viz-plugins/plugin-chart-composed@0.15.0) (2021-05-26)
+# [0.15.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.14.12...@chart-composed-test/plugin-chart-composed@0.15.0) (2021-05-26)
 
 
 ### Features
@@ -450,17 +450,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.14.12](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.14.11...@superset-viz-plugins/plugin-chart-composed@0.14.12) (2021-05-24)
+## [0.14.12](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.14.11...@chart-composed-test/plugin-chart-composed@0.14.12) (2021-05-24)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
-
-
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
-## [0.14.11](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.14.10...@superset-viz-plugins/plugin-chart-composed@0.14.11) (2021-05-24)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
+
+## [0.14.11](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.14.10...@chart-composed-test/plugin-chart-composed@0.14.11) (2021-05-24)
+
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
@@ -468,13 +468,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 0.14.10 (2021-05-13)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
 
 
-## [0.14.9](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.14.8...@superset-viz-plugins/plugin-chart-composed@0.14.9) (2021-05-11)
+## [0.14.9](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.14.8...@chart-composed-test/plugin-chart-composed@0.14.9) (2021-05-11)
 
 
 ### Bug Fixes
@@ -485,23 +485,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.14.8](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.14.7...@superset-viz-plugins/plugin-chart-composed@0.14.8) (2021-05-11)
+## [0.14.8](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.14.7...@chart-composed-test/plugin-chart-composed@0.14.8) (2021-05-11)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
-
-
-
-
-
-## [0.14.7](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.14.6...@superset-viz-plugins/plugin-chart-composed@0.14.7) (2021-05-09)
-
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
 
 
-## [0.14.6](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.14.5...@superset-viz-plugins/plugin-chart-composed@0.14.6) (2021-05-09)
+## [0.14.7](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.14.6...@chart-composed-test/plugin-chart-composed@0.14.7) (2021-05-09)
+
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
+
+
+
+
+
+## [0.14.6](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.14.5...@chart-composed-test/plugin-chart-composed@0.14.6) (2021-05-09)
 
 
 ### Bug Fixes
@@ -512,7 +512,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.14.5](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.14.4...@superset-viz-plugins/plugin-chart-composed@0.14.5) (2021-05-09)
+## [0.14.5](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.14.4...@chart-composed-test/plugin-chart-composed@0.14.5) (2021-05-09)
 
 
 ### Bug Fixes
@@ -523,15 +523,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.14.4](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.14.3...@superset-viz-plugins/plugin-chart-composed@0.14.4) (2021-05-06)
+## [0.14.4](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.14.3...@chart-composed-test/plugin-chart-composed@0.14.4) (2021-05-06)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
-
-
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
-## [0.14.3](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.14.2...@superset-viz-plugins/plugin-chart-composed@0.14.3) (2021-05-04)
+
+
+## [0.14.3](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.14.2...@chart-composed-test/plugin-chart-composed@0.14.3) (2021-05-04)
 
 
 ### Bug Fixes
@@ -542,15 +542,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.14.2](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.14.1...@superset-viz-plugins/plugin-chart-composed@0.14.2) (2021-05-03)
+## [0.14.2](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.14.1...@chart-composed-test/plugin-chart-composed@0.14.2) (2021-05-03)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
-
-
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
-## [0.14.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.14.0...@superset-viz-plugins/plugin-chart-composed@0.14.1) (2021-05-02)
+
+
+## [0.14.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.14.0...@chart-composed-test/plugin-chart-composed@0.14.1) (2021-05-02)
 
 
 ### Bug Fixes
@@ -561,7 +561,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.14.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.11.3...@superset-viz-plugins/plugin-chart-composed@0.14.0) (2021-05-02)
+# [0.14.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.11.3...@chart-composed-test/plugin-chart-composed@0.14.0) (2021-05-02)
 
 
 ### Features
@@ -572,25 +572,25 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.11.3](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.12.0...@superset-viz-plugins/plugin-chart-composed@0.11.3) (2021-05-02)
+## [0.11.3](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.12.0...@chart-composed-test/plugin-chart-composed@0.11.3) (2021-05-02)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
-
-
-
-
-
-## [0.11.2](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.11.1...@superset-viz-plugins/plugin-chart-composed@0.11.2) (2021-04-27)
-
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
 
 
-## [0.11.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.11.0...@superset-viz-plugins/plugin-chart-composed@0.11.1) (2021-04-20)
+## [0.11.2](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.11.1...@chart-composed-test/plugin-chart-composed@0.11.2) (2021-04-27)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
+
+
+
+
+
+## [0.11.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.11.0...@chart-composed-test/plugin-chart-composed@0.11.1) (2021-04-20)
+
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
@@ -607,9 +607,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.10.3](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.10.2...@superset-viz-plugins/plugin-chart-composed@0.10.3) (2021-02-14)
+## [0.10.3](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.10.2...@chart-composed-test/plugin-chart-composed@0.10.3) (2021-02-14)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
@@ -617,21 +617,21 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 0.10.2 (2021-02-10)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
 
 
-## [0.10.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.10.0...@superset-viz-plugins/plugin-chart-composed@0.10.1) (2021-02-08)
+## [0.10.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.10.0...@chart-composed-test/plugin-chart-composed@0.10.1) (2021-02-08)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
-
-
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
-# [0.10.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.9.0...@superset-viz-plugins/plugin-chart-composed@0.10.0) (2021-01-28)
+
+
+# [0.10.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.9.0...@chart-composed-test/plugin-chart-composed@0.10.0) (2021-01-28)
 
 
 ### Features
@@ -653,23 +653,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.2](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.7.1...@superset-viz-plugins/plugin-chart-composed@0.7.2) (2021-01-04)
+## [0.7.2](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.7.1...@chart-composed-test/plugin-chart-composed@0.7.2) (2021-01-04)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
-
-
-
-
-
-## [0.7.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.7.0...@superset-viz-plugins/plugin-chart-composed@0.7.1) (2020-12-30)
-
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
 
 
-# [0.7.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.6.2...@superset-viz-plugins/plugin-chart-composed@0.7.0) (2020-12-30)
+## [0.7.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.7.0...@chart-composed-test/plugin-chart-composed@0.7.1) (2020-12-30)
+
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
+
+
+
+
+
+# [0.7.0](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.6.2...@chart-composed-test/plugin-chart-composed@0.7.0) (2020-12-30)
 
 
 ### Features
@@ -693,15 +693,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 0.6.2 (2020-12-30)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
 
 
-## [0.6.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@superset-viz-plugins/plugin-chart-composed@0.6.0...@superset-viz-plugins/plugin-chart-composed@0.6.1) (2020-12-29)
+## [0.6.1](https://github.com/nielsen-oss/superset-viz-plugins/compare/@chart-composed-test/plugin-chart-composed@0.6.0...@chart-composed-test/plugin-chart-composed@0.6.1) (2020-12-29)
 
-**Note:** Version bump only for package @superset-viz-plugins/plugin-chart-composed
+**Note:** Version bump only for package @chart-composed-test/plugin-chart-composed
 
 
 
