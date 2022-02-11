@@ -1,5 +1,5 @@
 {
-  "name": "superset-viz-plugins",
+  "name": "chart-composed-test",
   "description": "Superset viz plugins by Nielsen",
   "private": true,
   "scripts": {
@@ -26,7 +26,7 @@
     "ci:release-from-tag": "yarn lerna publish --no-verify-access --yes",
     "ci:release-conventional": "yarn clean-npm-lock && lerna publish --conventional-commits --create-release github --no-git-tag-version --no-push"
   },
-  "repository": "https://github.com/nielsen-oss/superset-viz-plugins",
+  "repository": "https://github.com/vladimirivkovic/chart-composed-test",
   "devDependencies": {
     "@babel/cli": "^7.10.4",
     "@babel/core": "7.7.4",
